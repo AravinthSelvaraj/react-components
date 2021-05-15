@@ -1,0 +1,12 @@
+.modern-form {
+    width: 500px;
+    margin: 30px auto;
+    background-color: #fff;
+    border: solid 1px #ccc;
+    padding: 20px 10px;
+}
+
+.modern-form h3 {
+    text-align: center;
+    color: #2196f3;
+}

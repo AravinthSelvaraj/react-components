@@ -1,8 +1,9 @@
 import './App.css';
+import CreateForm from './user/create-form/component';
 
 function App() {
   return (
-    <div>hello world</div>
+    <CreateForm />
   );
 }
 
